@@ -2,3 +2,10 @@
 __pycache__/
 temp_pdf/
 faiss_index/
+
+# VS Code settings
+.vscode/
+
+# Windows system files
+Thumbs.db
+desktop.ini
