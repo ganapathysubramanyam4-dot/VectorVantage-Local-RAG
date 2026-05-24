@@ -25,18 +25,15 @@ Before running the application, make sure you have **Ollama** installed and the 
    ```bash
    ollama pull mistral
 💻 How to Run
-Install Dependencies:
-Make sure you have your environment ready, then install all required libraries:
+Install Dependencies: Make sure you have your environment ready, then install all required libraries:
 
 Bash
 pip install -r requirements.txt
-Start the Ollama Server:
-Ensure your local neural instance is live:
+Start the Ollama Server: Ensure your local neural instance is live:
 
 Bash
 ollama run mistral
-Launch the Streamlit Application:
-Run the web interface:
+Launch the Streamlit Application: Run the web interface:
 
 Bash
 streamlit run app_web.py
